@@ -36,4 +36,4 @@ Python flask for http server
 HTML/CSS/Javascript for UI
 
 
-Greatest gratitude to codebasics(https://github.com/codebasics) for providing the needed guidance.
+Greatest gratitude to codebasics(https://youtu.be/qWXXHjV3JHI) for providing the needed guidance.
