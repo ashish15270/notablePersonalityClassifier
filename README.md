@@ -6,7 +6,7 @@
 Greetings!!
 This project aims at serving an end to end tool for face recogition(without using Python's face recognition library or AI). In this model I have built a machine learning model. 
 I have used images of 5 notable personalities to train the model. 
-This model gives an accuracy of 85 to 90%.
+This model gives an accuracy of around 90%.
 
 Classification is restricted to only 5 people,
 
@@ -31,7 +31,7 @@ Python libraries:
   opencv-python==3.4.3.18
   seaborn==0.8.1
   scikit-learn==0.24
-Jupyter notebook, visual studio code and pycharm as IDE
+Jupyter notebook, visual studio code as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
 
