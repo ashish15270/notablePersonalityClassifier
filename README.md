@@ -1,12 +1,16 @@
 # notablePersonalityClassifier
 
 
-![2022-04-10](https://user-images.githubusercontent.com/65803794/162658270-379936fb-9afd-4fef-b5f2-69947456f20a.png)
 
 Greetings!!
 This project aims at serving an end to end tool for face recogition(without using Python's face recognition library or AI). In this model I have built a machine learning model. 
 I have used images of 5 notable personalities to train the model. 
-This model gives an accuracy of around 90%.
+
+
+
+https://user-images.githubusercontent.com/65803794/166154082-b2d10dde-70cc-4bb4-a21f-b19eb8f6a64f.mp4
+
+
 
 Classification is restricted to only 5 people,
 
